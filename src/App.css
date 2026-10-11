@@ -328,7 +328,7 @@ img {
 }
 
 .site-footer-coursework {
-  max-width: min(68vw, 760px);
+  max-width: none;
   margin-top: 4px !important;
   font-size: 0.74rem !important;
   line-height: 1.35;
@@ -905,7 +905,7 @@ img {
   }
 
   .site-footer-education .site-footer-coursework {
-    max-width: min(68vw, 760px);
+    max-width: none;
     font-size: 0.68rem !important;
     white-space: normal;
   }

@@ -219,7 +219,7 @@ function App() {
       return (
         <section className="content-panel projects-panel">
           <div className="section-header">
-            <h2>Selected engineering work</h2>
+            <h2>Engineering Project Work</h2>
           </div>
 
           <div className="projects-grid">
@@ -375,7 +375,7 @@ function App() {
         <footer className="site-footer">
           <div className="site-footer-education">
             <p className="mini-label">Education</p>
-            <p><strong>B.S. Aerospace Engineering</strong> · Purdue University</p>
+            <p><strong>B.S. Aerospace Engineering</strong> · Purdue University · Class of 2028</p>
             <p className="site-footer-coursework">
               <strong>Relevant Coursework:</strong> Turbomachinery, Fluid Mechanics, Aerodynamics,
               Structures, Signal Analysis, Propulsion Foundations, Intro to CFD, Thermodynamics
