@@ -22,9 +22,14 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
-  background:
-    radial-gradient(circle at top, rgba(14, 116, 144, 0.35), transparent 30%),
-    linear-gradient(180deg, #020817 0%, #0f172a 100%);
+  background-color: #020817;
+  background-image:
+    linear-gradient(rgba(2, 8, 23, 0.38), rgba(2, 8, 23, 0.48)),
+    url('/images/rocket-launch-background.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 img {

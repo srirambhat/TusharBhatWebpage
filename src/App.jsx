@@ -381,9 +381,6 @@ function App() {
               Structures, Signal Analysis, Propulsion Foundations, Intro to CFD, Thermodynamics
             </p>
           </div>
-          <div className="site-footer-details">
-            <p>Based in Sammamish, WA</p>
-          </div>
         </footer>
       </div>
     </div>
