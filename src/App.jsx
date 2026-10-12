@@ -179,7 +179,9 @@ function App() {
                 setActivePortfolioPage((page) => Math.max(portfolioPages[0], page - 1))
               }
             >
-              <span aria-hidden="true">&#8592;</span>
+              <svg aria-hidden="true" viewBox="0 0 24 24" focusable="false">
+                <path d="m14.5 5-7 7 7 7" />
+              </svg>
             </button>
 
             <figure className="portfolio-page">
@@ -204,7 +206,9 @@ function App() {
                 )
               }
             >
-              <span aria-hidden="true">&#8594;</span>
+              <svg aria-hidden="true" viewBox="0 0 24 24" focusable="false">
+                <path d="m9.5 5 7 7-7 7" />
+              </svg>
             </button>
           </div>
 
